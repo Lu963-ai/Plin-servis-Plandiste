@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../servis-plin-vs"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "breakfast website kopija"
+	}
+}
